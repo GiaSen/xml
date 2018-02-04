@@ -5,7 +5,7 @@
   <project path="vendor/asus" name="TheMuppets/proprietary_vendor_asus" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="cm-14.1" />
  <project path="device/asus/Z008" name="GiaSen/android_device_asus_Z008" remote="github" revision="cm-14.1" />
-<project path="device/asus/mofd-common" name="LineageOS/android_device_asus_mofd-common" remote="github" revision="cm-14.1" />
+<project path="device/asus/mofd-common" name="GiaSen/android_device_asus_mofd-common" remote="github" revision="cm-14.1" />
  <project path="kernel/asus/Z00D" name="LineageOS/android_kernel_asus_Z00D" remote="github" revision="cm-14.1" />
  <project path="device/asus/Z00D" name="GiaSen/android_device_asus_Z00D" remote="github" revision="cm-14.1" />
 </manifest>
