@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> <manifest>
+ <project path="kernel/asus/moorefield" name="LineageOS/android_kernel_asus_moorefield" remote="github" revision="cm-14.1" />
+ <project path="device/asus/Z00A" name="GiaSen/android_device_asus_Z00A" remote="github" revision="DU-N" />
+  <project path="device/intel/common" name="android-ia/device-intel-common" remote="github" revision="n_master" />
+  <project path="vendor/asus" name="TheMuppets/proprietary_vendor_asus" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="cm-14.1" />
+<!-- <project path="device/asus/Z008" name="GiaSen/android_device_asus_Z008" remote="github" revision="cm-14.1" /> -->
+<project path="device/asus/mofd-common" name="GiaSen/android_device_asus_mofd-common" remote="github" revision="DU-N" />
+<!-- <project path="kernel/asus/Z00D" name="LineageOS/android_kernel_asus_Z00D" remote="github" revision="cm-14.1" />-->
+<!-- <project path="device/asus/Z00D" name="GiaSen/android_device_asus_Z00D" remote="github" revision="cm-14.1" />-->
+ <project name="LineageOS/android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" remote="github" />
+  <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" />
+</manifest>
