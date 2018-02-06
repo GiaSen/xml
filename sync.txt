@@ -1,0 +1,1 @@
+repo sync -c -f -j8 --force-sync --no-clone-bundle --no-tags
