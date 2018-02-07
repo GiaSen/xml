@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?> <manifest>
+ <project path="kernel/xiaomi/msm8953" 
+name="TeamHorizon/android_kernel_xiaomi_mido" 
+remote="github" revision="n" />
+ <project path="device/xiaomi/mido" 
+name="LineageOS/android_device_xiaomi_mido" 
+remote="github" revision="cm-14.1" />
+  <project path="device/qcom/common" 
+name="LineageOS/android_device_qcom_common" 
+remote="github" revision="cm-14.1" />
+  <project path="vendor/xiaomi" 
+name="AKabhishek/vendor_xiaomi" remote="github" 
+revision="n-mr2" />
+  <project 
+name="LineageOS/android_packages_resources_devicesettings" 
+path="packages/resources/devicesettings" 
+remote="github" revision="cm-14.1" />
+</manifest>
