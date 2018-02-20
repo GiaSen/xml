@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project path="kernel/xiaomi/msm8996" name="PsyMan47/android_kernel_xiaomi_msm8996" remote="github" revision="lineage-15.1-NT" />
+  <project path="device/xiaomi/scorpio" name="PsyMan47/scorpio" remote="github" revision="O-MR1-NT" />
+  <project path="device/xiaomi/msm8996-common" name="PsyMan47/msm8996-common" remote="github"
+ revision="AOSP-O-MR1-NT" />
+  <project path="vendor/xiaomi" name="PsyMan47/vendor_xiaomi" remote="github" revision="O-MR1" />
+
+</manifest>
