@@ -8,6 +8,4 @@
 <project path="device/asus/mofd-common" name="GiaSen/android_device_asus_mofd-common" remote="github" revision="cm-14.1" />
  <project path="kernel/asus/Z00D" name="LineageOS/android_kernel_asus_Z00D" remote="github" revision="cm-14.1" />
  <project path="device/asus/Z00D" name="GiaSen/android_device_asus_Z00D" remote="github" revision="cm-14.1" />
- <project name="LineageOS/android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" remote="github" />
-  <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" />
 </manifest>
