@@ -8,8 +8,6 @@
   <project path="vendor/xiaomi/kenzo" name="abc_vendor_xiaomi_kenzo" remote="abc" revision="o2" />
   <!-- MSM8952 Hardware -->
   <project path="hardware/qcom/audio" name="abc_hardware_qcom_audio" remote="abc" revision="o2-8952" />
-  <project path="hardware/qcom/display" name="abc_hardware_qcom_display" remote="abc" revision="o2-8952" />
-  <project path="hardware/qcom/media" name="abc_hardware_qcom_media" remote="abc" revision="o2-8952" />
 <!-- Lineage 15.1 devicesettings for apps -->
 <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-15.1"/>
 </manifest>
