@@ -2,7 +2,7 @@
 <manifest>
 <remote name="abc"
            fetch="https://github.com/ABCrom-Xiaomi/" />
-  <!-- Kenzo trees -->
+  <!-- Kenzo 8.1 AOSP trees -->
   <project path="device/xiaomi/kenzo" name="abc_device_xiaomi_kenzo" groups="device,kenzo,broadcom_pdk,pdk" remote="abc" revision="o2" />
   <project path="kernel/xiaomi/kenzo" name="abc_kernel_xiaomi_kenzo" groups="device,kenzo,broadcom_pdk,pdk" remote="abc" revision="o2" />
   <project path="vendor/xiaomi/kenzo" name="abc_vendor_xiaomi_kenzo" remote="abc" revision="o2" />

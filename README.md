@@ -1,2 +1,2 @@
 # xml
-Commands and tools for building
+Some XMLs for Zen2, kenzo, scorpio and mido

@@ -1,2 +1,0 @@
-curl https://raw.githubusercontent.com/LegacyServer/Scripts/master/script_build.sh > script_build.sh
-nano script_build.sh
