@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <project path="kernel/xiaomi/msm8953" name="MiracleDROID-HnT/android_kernel_xiaomi_msm8953" remote="github" revision="android-8.1" />
-  <project path="device/xiaomi/mido" name="MiracleDROID-HnT/android_device_xiaomi_mido" remote="github" revision="android-8.1" />
-  <project path="vendor/xiaomi" name="AospExtended-Devices/vendor_xiaomi_mido" remote="github" revision="8.1.x" />
-
-</manifest>

@@ -2,7 +2,7 @@
 
 CCACHE=$(command -v ccache)
 
-TOOLCHAIN=/home/giasen/du/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-
+TOOLCHAIN=/home/giasen/rr/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-
 
 export CROSS_COMPILE="${CCACHE} ${TOOLCHAIN}"
 

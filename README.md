@@ -1,2 +1,2 @@
 # xml
-Some XMLs for Zen2, kenzo, scorpio and mido
+Some local_manifests for Zen2, kenzo, scorpio and mido.
